@@ -74,7 +74,7 @@ else:
 
         print("[x] pasword salah lol \n")
 
-        continue
+        
 
 time.sleep(2)
 
